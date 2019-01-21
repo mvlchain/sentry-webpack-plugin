@@ -17,7 +17,7 @@
     "node": ">= 6.0.0"
   },
   "dependencies": {
-    "@sentry/cli": "^1.35.5"
+    "@sentry/cli": "https://github.com/mvlchain/sentry-cli/archive/mvl1.37.5.tar.gz"
   },
   "devDependencies": {
     "codecov": "^3.0.0",
